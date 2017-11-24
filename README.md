@@ -1,0 +1,2 @@
+# CUITest
+codedUI tests
